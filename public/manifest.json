@@ -1,46 +1,46 @@
 {
-  "name": "Joujma FM | Radio Station",
-  "short_name": "Joujma FM",
+  "name": "Cryptoradio.FM",
+  "short_name": "CryptoradioFM",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/?utm_source=pwa_homescreen",
   "prompt_message": "Add a Home screen icon for easy access to our player",
-  "description": "Joujma FM webplayer",
+  "description": "Cryptoradio.FM Mobile Webplayer",
   "background_color": "#222336",
   "theme_color": "#222336",
   "icons": [
     {
-      "src": "./img/icons/icon-1024x1024.png",
+      "src": "./img/stations/CryptoradioFMLogo.png",
       "sizes": "1024x1024",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/icon-512x512.png",
+      "src": "./img/stations/CryptoradioFMLogo.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/icon-384x384.png",
+      "src": "./img/stations/CryptoradioFMLogo.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/icon-256x256.png",
+      "src": "./img/stations/CryptoradioFMLogo.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/icon-192x192.png",
+      "src": "./img/stations/CryptoradioFMLogo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/icon-128x128.png",
+      "src": "./img/stations/CryptoradioFMLogo.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/icon-96x96.png",
+      "src": "./img/stations/CryptoradioFMLogo.png",
       "sizes": "96x96",
       "type": "image/png"
     }
