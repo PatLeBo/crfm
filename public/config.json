@@ -22,10 +22,10 @@
     "locale" : "US_en"
   },
   "twitter" : {
-    "username" : cryptoradiofm
+    "username" : "cryptoradiofm"
   },
   "facebook" : {
-    "page_id" : cryptoradiofm
+    "page_id" : "cryptoradiofm"
   },
   "stationsFilterById": [6]
 }
