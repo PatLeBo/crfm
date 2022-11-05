@@ -1,9 +1,9 @@
 {
-  "api_url" : "https://demo.azuracast.com/api",
-  "title": "Joujma FM | Radio Station",
-  "description" : "Live Radio 24/7 Hits music Only test",
+  "api_url" : "https://live.cryptoradio.fm/api",
+  "title": "Cryptoradio.FM",
+  "description" : "Live 24/7 Crypto Radio",
   "manifest" : {
-    "short_name": "Joujma FM",
+    "short_name": "CryptoradioFM",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "/?utm_source=pwa_homescreen",
