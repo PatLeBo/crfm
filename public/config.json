@@ -14,18 +14,18 @@
   "player": {
     "showLyrics": true
   },
-  "showPlaylist" : false,
-  "socialBtn" : false,
+  "showPlaylist" : true,
+  "socialBtn" : true,
   "meta": {
-    "url" : "https://player.jelliti.me",
-    "image" : "https://player.jelliti.me/img/icon.png",
+    "url" : "https://player.cryptoradio.fm",
+    "image" : "https://player.cryptoradio.fm/img/icon.png",
     "locale" : "US_en"
   },
   "twitter" : {
-    "username" : null
+    "username" : cryptoradiofm
   },
   "facebook" : {
-    "page_id" : null
+    "page_id" : cryptoradiofm
   },
   "stationsFilterById": [6]
 }
