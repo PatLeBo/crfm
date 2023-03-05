@@ -6,7 +6,7 @@
     "short_name": "CryptoradioFM",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "/?utm_source=pwa_homescreen",
+    "start_url": "/",
     "prompt_message": "Add a Home screen icon for easy access to our player",
     "background_color": "#222336",
     "theme_color": "#222336"
